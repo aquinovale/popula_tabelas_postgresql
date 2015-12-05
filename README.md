@@ -15,7 +15,7 @@ Ex.: "Pessoas"->cpf <br/>
 Ex.: "Pessoas"->"CPF" <br/>
 
 Havendo a necessidade de definir um gerador diferente do default (cpf).
-Ex.: pessoas->campo->cnpj
+Ex.: pessoas->campo->cnpj <br />
 Ex.: pessoas->campo->cpf mesmo que pessoas->campo
 
 ##### EXECUÇAO DO JAR                 
