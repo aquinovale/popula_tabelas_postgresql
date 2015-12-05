@@ -16,7 +16,7 @@ Ex.: "Pessoas"->"CPF" <br/>
 
 Havendo a necessidade de definir um gerador diferente do default (cpf).
 Ex.: pessoas->campo->cnpj <br />
-Ex.: pessoas->campo->cpf mesmo que pessoas->campo
+Ex.: pessoas->campo = pessoas->campo->cpf
 
 ##### EXECUÇAO DO JAR                 
 Faça a compilação do fonte, ou utilize o pacote já pronto.
@@ -27,7 +27,7 @@ Ex.:  java -jar ofusca.jar /conexao.properties
 #### ARQUIVO conexao.properties
 Arquivo onde se encontra as configurações para acesso ao postgresql.
 
-Obs.: Lembrando que pode haver necessidade de liberação do usuário no pg_hba.conf
+obs.: Lembrando que pode haver necessidade de liberação do usuário no pg_hba.conf <br />
 obs.: Não deixe espaços entro campos
 
 ```
