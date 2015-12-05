@@ -2,6 +2,10 @@
 Programa feito em Java
 por Vinicius Vale 01/12/2015
 
+Blog: www.viniciusvale.com
+Empresa: www.valeconsultoria.com
+Linkedin: linkedin.com/in/aquinovale
+
 ### ARQUIVO OFUSCADOR
 O arquivo ofuscador é basicamente um arquivo com tabela.campo <br/>
 Ex.: clientes->cpf <br/>
