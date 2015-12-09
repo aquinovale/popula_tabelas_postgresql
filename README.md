@@ -37,6 +37,7 @@ user=vinicius
 senha=123456
 database=ofuscador
 password=123456
+path.ofuscadores=/tmp/ofuscadores
 ```
 
 ###### TABELAS FILHAS
